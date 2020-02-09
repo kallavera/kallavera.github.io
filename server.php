@@ -6,6 +6,8 @@
     <title>Rollingrado</title>
 </head>
 <body>
-    Hola Roleros! con php
+    <?php
+        echo 'Hola Roleros! con php';
+    ?>
 </body>
 </html>
